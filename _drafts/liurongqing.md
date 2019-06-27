@@ -33,7 +33,7 @@
 
 <small>掌握 HTML5、CSS3、SCSS、LESS、JavaScript、jQuery、Markdown。</small>
 
-<small>掌握 Webpack、Gulp、Grunt 流程化工具， Git、SVN 版本控制工具，VSCode、Sublime Text、WebStorm 开发工具等。</small>
+<small>掌握 Webpack、Gulp、Grunt 流程化工具， Git、SVN 版本控制工具，VSCode、Sublime Text 开发工具等。</small>
 
 <small>配置 ESLint(Airbnb 规范)、stylelint(standard 规范) 及严格遵守规范。</small>
 
@@ -45,7 +45,7 @@
 
 <small>开发过微信网页小游戏、微信小程序、微信小程序游戏。</small>
 
-<small>了解 Angular、React Native 框架。</small>
+<small>了解 Angular、React Native、微信小程序。</small>
 
 <small>了解 Egret、Phaser、Cocos2d-JS、LayaBox、Three.js 游戏框架。</small>
 
