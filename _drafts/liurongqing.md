@@ -1,5 +1,4 @@
 <center><div style="font-size: 26px; font-weight: bold; ">前端开发工程师 - 刘荣清</div></center>
-
 #### 基本信息
 
 - 个人信息
@@ -12,7 +11,9 @@
 
 - 个人站点
 
-  <small>[博客地址](https://www.liurongqing.com) - [github 地址](https://www.github.com/liurongqing)</small>
+  <small>博客地址：https://www.liurongqing.com</small>
+  
+  <small> github 地址:  https://www.github.com/liurongqing</small>
 
 #### 工作经历
 
@@ -44,38 +45,58 @@
 
 <small>开发过微信网页小游戏、微信小程序、微信小程序游戏。</small>
 
-<small>使用过 Angular、Vue、React Native 框架。</small>
+<small>了解 Angular、React Native 框架。</small>
 
-<small>使用过 Egret、Phaser、Cocos2d-JS、LayaBox、Three.js 游戏框架。</small>
-
+<small>了解 Egret、Phaser、Cocos2d-JS、LayaBox、Three.js 游戏框架。</small>
 
 #### 项目经验
 
 1. 开源项目
 
-    | 项目              | 类型        | 功能                       | 链接                                                         |
-    | ----------------- | ----------- | -------------------------- | ------------------------------------------------------------ |
-    | px2vw             | VSCode 插件 | 将 px 转成 vw，实现适配    | [github 地址](https://github.com/liurongqing/px2vw)<br />[插件地址](https://marketplace.visualstudio.com/items?itemName=liurongqing.px2vw) |
-    | mao-cli           | npm 包      | cli 脚手架生成不同项目模版 | [github 地址](https://github.com/liurongqing/mao-cli)<br />[插件地址](https://www.npmjs.com/package/mao-cli) |
-    | jekyll-theme-fast | gem 包      | jekyll 主题                | [github 地址](https://github.com/liurongqing/jekyll-theme-fast)<br />[插件地址](https://rubygems.org/gems/jekyll-theme-fast) |
+   1. <small>**px2vw** `vscode 插件`</small>
 
-2. 环球易购`(2018.11)(前端14人)`
+      > <small>将 px 转成 vw，实现适配，可按设计稿更改基础值</small>
+      >
+      > <small>https://github.com/liurongqing/px2vw</small>
 
-    | 项目                             | 简介                                                         | 任务与结果 | 主要技能 |
-    | -------------------------------- | ------------------------------------------------------------ | ---------- | -------- |
-    | SEO 后台管理系统<br />(全新搭建) | 针对 Zaful，Rosewholesale, Rosegal, Dresslily 站点进行统一与定制化管理，可导入、导出、规则定制、可视化统计数据 |            |          |
-    | ELF 后台管理系统<br />(全新搭建) | 活动管理、不同站点导航栏可视化管理                           |            |          |
-    | AMS 广告系统<br />(维护系统)     | Facebook广告管理、谷歌广告管理                               |            |          |
-    | CMS 系统<br />(全新搭建)         | 数据可视化、广告管理、内容管理、国家管理、语言管理、广告赛马管理 |            |          |
-    | 支付平台<br />(维护系统)         | 订单管理、沟道商管理、支付方式管理                           |            |          |
-    | 商品运营平台<br />(全新搭建)     | 商品规则、场景管理                                           |            |          |
-    | IUS 图片系统<br />(维护系统)     | 素材管理                                                     |            |          |
-    | PUSH 推送系统<br />(维护系统)    | 推送管理                                                     |            |          |
-    | Zaful                            | 页面优化、活动页                                             |            |          |
-    | DressLily 站点                   | 页面优化、活动页                                             |            |          |
-    
-    
-    
+   2. <small>**mao-cli** `npm 包`</small>
+
+      > <small>cli 脚手架生成不同项目模版</small>
+      >
+      > <small>https://github.com/liurongqing/mao-cli</small>
+
+   3. <small>**jekyll-theme-fast** `gem 包` </small>
+
+      > <small>jekyll 主题， 简单博客 UI</small>
+      >
+      > <small>https://github.com/liurongqing/jekyll-theme-fast</small>
+
+2. 环球易购 `(2018.11)` `(前端14人)`
+
+   1. <small>**SEO 管理平台** `全新搭建`</small>
+   2. <small>**ELF 管理系统** `全新搭建`</small>
+   3. <small>**AMS 广告系统** `维护系统`</small>
+   4. <small>**CMS 系统** `全新搭建`</small>
+   5. <small>**商品运营平台** `全新搭建`</small>
+   6. <small>**IUS 图片系统** `维护系统`</small>
+   7. <small>**支付平台** `维护系统`</small>
+   8. <small>**PUSH 系统** `维护系统`</small>
+   9. <small>**Zaful、DressLily** `维护站点`</small>
+
+3. 平安科技有限公司 `(2017.01)` `(前端 5 人)`
+
+4. 深圳市魅族科技有限公司 `(2015.06)` `(前端 8 人)`
+
+5. 深圳市软通动力科技有限公司 `(2014.02)` `(前端架构)` `(前端 3 人)`
+
+6. 中国科学院微生物研究所 `(2012.06)` `(前端 2 人)`
+
+
+
+
+
+
+
 3. 平安科技有限公司 `(2017.01)` `(前端架构)` `(前端 5 人)`
 
     | 项目                                     | 简介                                                         | 任务与结果                                                   | 主要技能                                                     |
@@ -87,11 +108,11 @@
 
 3. 深圳市魅族科技有限公司 `(2015.06)` `(前端 8 人)`
 
-   | 项目                                       | 简介                                                         | 任务与结果                                                   | 主要技能                                                     |
-   | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | <div style="width: 80px;">meizu 官网</div> | 产品展示<br />[官网地址](https://www.meizu.com/)             | 开发新品页面。<br />熟练使用 CSS 3 动画。                    | FIS、HTML5、CSS3、jQuery、Git                                |
-   | 魅友家官网                                 | 活动展示<br />[官网地址](http://myj.meizu.com/)              | 搭建展示网站。                                               | HTML5、CSS3、jQuery、SVN                                     |
-   | 小游戏开发                                 | [圣诞节图片](https://sqa-res.oss-cn-beijing.aliyuncs.com/resume/3411534042240_.pic.jpg)<br />[春晚图片](https://sqa-res.oss-cn-beijing.aliyuncs.com/resume/3421534042240_.pic.jpg)<br />[母亲节图片](https://sqa-res.oss-cn-beijing.aliyuncs.com/resume/3431534042240_.pic.jpg) | 营销吸粉游戏。<br />公众号增粉 2万以上/游戏。<br />熟练使用 CSS 3 动画<br />熟练使用游戏框架。 | 圣诞节 Cocos2d-JS<br />春    晚 HTML5、CSS3、JavaScript<br />母亲节 HTML5、CSS3、JavaScript<br />摇你魅 Cocos2d-JS<br /> |
+   | 项目                                       | 简介                                             | 任务与结果                                                   | 主要技能                                                     |
+   | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | <div style="width: 80px;">meizu 官网</div> | 产品展示<br />[官网地址](https://www.meizu.com/) | 开发新品页面。<br />熟练使用 CSS 3 动画。                    | FIS、HTML5、CSS3、jQuery、Git                                |
+   | 魅友家官网                                 | 活动展示<br />[官网地址](http://myj.meizu.com/)  | 搭建展示网站。                                               | HTML5、CSS3、jQuery、SVN                                     |
+   | 小游戏开发                                 | 圣诞节活动、春晚红包活动、母亲节活动             | 营销吸粉游戏。<br />公众号增粉 2万以上/游戏。<br />熟练使用 CSS 3 动画<br />熟练使用游戏框架。 | 圣诞节 Cocos2d-JS<br />春    晚 HTML5、CSS3、JavaScript<br />母亲节 HTML5、CSS3、JavaScript<br />摇你魅 Cocos2d-JS<br /> |
 
 4. 深圳市软通动力科技有限公司 `(2014.02)` `(前端架构)` `(前端 3 人)`
 
