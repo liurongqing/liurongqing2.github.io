@@ -45,7 +45,7 @@
 
 <small>掌握前端性能优化方案，熟练使用 ThinkPHP、Koa2 后台框架。</small>
 
-<small>熟练使用 Phaser3 开发网页游戏、微信小程序游戏</small>
+<small>熟练使用 Phaser3 开发网页游戏、微信小程序游戏。</small>
 
 <small>喜爱 MacOS 系统，熟练使用命令行模式及各种软件常用命令及快捷键。</small>
 
@@ -82,68 +82,68 @@
 
 2. 环球易购 `(2018.11)` `(前端14人)`
 
-   1. <small>**SEO 管理平台** `全新搭建`</small> `Vue Element Admin`
+   1. <small>**SEO 后台管理平台** `全新搭建`</small> `Vue Element Admin`
 
-      > 用于Zaful、DressLily、Rosewholesale、Rosegal（简称多站）
-      > 功能：关键词库、Robots、公用部份、关键词规则
+      > <small>用于Zaful、DressLily、Rosewholesale、Rosegal（简称多站）
+      > 功能：关键词库、Robots、公用部份、关键词规则等</small>
 
-   2. <small>**ELF 管理系统** `全新搭建`</small> `Vue Element Admin`
+   2. <small>**ELF 后台管理系统** `全新搭建`</small> `Vue Element Admin`
 
-      > 用于多站的活动管理、导航管理、游戏管理、导购词管理
+      > <small>用于多站的活动管理、导航管理、游戏管理、导购词管理等</small>
 
-   3. <small>**AMS 广告系统** `维护系统`</small> `React + Redux + Saga + Webpack`
+   3. <small>**AMS 广告管理系统** `维护系统`</small> `React + Redux + Saga + Webpack`
 
-      > 主要用于投放 Facebook、Google 广告， 可配广告组、广告预算、广告竞价、广告受众等多联动交互
+      > <small>主要用于投放 Facebook、Google 广告， 可配广告组、广告预算、广告竞价、广告受众等多联动交互</small>
 
-   4. <small>**CMS 系统** `全新搭建`</small> `Vue Element Admin`
-    
-      > 12
+   4. <small>**CMS 后台管理系统** `全新搭建`</small> `Vue Element Admin`
 
-   5. <small>**商品运营平台** `全新搭建`</small> `Vue Element Admin`
+      > <small>管理多站、多端的首页、广告等可视化配置</small>
 
-     > 配置场景管理与商品规则干预，
+   5. <small>**商品运营平台后台管理系统** `全新搭建`</small> `Vue Element Admin`
 
-   6. <small>**IUS 图片系统** `维护系统`</small> `Vue + Element + Webpack`
+     > <small>配置场景管理与商品规则干预，实现打压高曝光、高流量却低转化率的商品， 扶持低曝光高转化率商品</small>
 
-   7. <small>**支付平台** `维护系统`</small> `Yii + jQuery + Bootstrap`
+   6. <small>**IUS 图片管理系统** `维护系统`</small> `Vue + Element + Webpack`
 
-   8. <small>**PUSH 系统** `维护系统`</small> `Yii + jQuery + Bootstrap`
+   7. <small>**支付平台后台管理系统、PUSH 推送信息系统** `维护系统`</small> `Yii + jQuery + Bootstrap`
 
-   9. <small>**Zaful、DressLily** `维护站点`</small> `ThinkPHP + jQuery`
+   8. <small>**Zaful、DressLily** `维护站点`</small> `ThinkPHP + jQuery`
+
+      > <small>站点新功能开发、优化及修复系统老问题</small>
 
 3. 平安科技有限公司 `(2017.01)` `(前端 5 人)`
 
    1. <small>**资产配置** `React + Webpack + SCSS + Git + Jenkins`</small>
 
-      > 平安证券 APP 内嵌的 H5 项目
+      > <small>平安证券 APP 内嵌的 H5 项目</small>
 
    2. <small>**智能投顾** `create-react-app + Ramda`</small>
 
-      > 平安科技类似资产配置的 H5 项目
+      > <small>平安科技类似资产配置的 H5 项目</small>
 
    3. <small>**智能投顾后台** `Ant Design Pro + TypeScript`</small>
 
-      > 智能投顾后台管理系统
+      > <small>智能投顾后台管理系统</small>
 
 4. 深圳市魅族科技有限公司 `(2015.06)` `(前端 8 人)`
 
    1. <small>**meizu 官网** `FIS + jQuery + Git`</small>
 
-      > 产品展示、开发新品页面，大量使用 HTML5 + CSS3 动画，基本展示兼容至 IE8
+      > <small>产品展示、开发新品页面，大量使用 HTML5 + CSS3 动画，基本展示兼容至 IE8</small>
 
    2. <small>**魅友家官网** `jQuery + SVN`</small>
 
-      > 后端 CodeIgniter + 前端 jQuery 编写的魅友家活动信息
+      > <small>后端 CodeIgniter + 前端 jQuery 编写的魅友家活动信息</small>
 
    3. <small>**游戏活动** `Cocos2d-JS + HTML5 + CSS3`</small>
 
-      > 母亲节 H5 动画、圣诞节点灯游戏、春晚红包活动、摇你魅微信游戏
+      > <small>母亲节 H5 动画、圣诞节点灯游戏、春晚红包活动、摇你魅微信游戏</small>
 
 5. 深圳市软通动力科技有限公司 `(2014.02)` `(前端架构)` `(前端 3 人)`
 
    1. <small>**iPad 版智能社区开发** `Angular1.3.8 + RequireJS + Gulp`</small>
 
-      > 基于社区的商城系统
+      > <small>基于社区的商城系统</small>
 
 6. 中国科学院微生物研究所 `(2012.06)` `(前端 2 人)`
 
@@ -151,7 +151,7 @@
 
    2. <small>**多个CMS系统** `ThinkPHP + jQuery + Bootstrap`</small>
 
-      > 读书会系统、新闻爬虫系统
+      > <small>读书会系统、新闻爬虫系统</small>
 
 ---
 
