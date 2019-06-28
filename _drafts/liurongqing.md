@@ -15,6 +15,8 @@
   
   <small> github 地址:  https://www.github.com/liurongqing</small>
 
+---
+
 #### 工作经历
 
 <small>2018.11 - 至今 &nbsp;&nbsp;&nbsp;&nbsp; 深圳市环球易购电子商务有限公司 - 高级前端开发工程师</small>
@@ -27,11 +29,15 @@
 
 <small>2012.06 - 2014.01 中国科学院微生物研究所 - 开发工程师</small>
 
+---
+
 #### 技能评价
 
-<small>掌握 React、Vue、Redux、TypeScript、Ramda、dva、Ant Design。</small>
+<small>掌握 React、Redux、TypeScript、Ramda、dva、Ant Design。</small>
 
-<small>掌握 HTML5、CSS3、SCSS、LESS、JavaScript、jQuery、Markdown。</small>
+<small>掌握 Vue、Vuex、Element、Vue Element Admin。</small>
+
+<small>掌握 HTML5、CSS3、SCSS、LESS、JavaScript、ES6、jQuery、Markdown。</small>
 
 <small>掌握 Webpack、Gulp、Grunt 流程化工具， Git、SVN 版本控制工具，VSCode、Sublime Text 开发工具等。</small>
 
@@ -45,9 +51,12 @@
 
 <small>开发过微信网页小游戏、微信小程序、微信小程序游戏。</small>
 
-<small>了解 Angular、React Native、微信小程序。</small>
+<small>了解 Angular、React Native、Polymer。</small>
 
 <small>了解 Egret、Phaser、Cocos2d-JS、LayaBox、Three.js 游戏框架。</small>
+
+---
+
 
 #### 项目经验
 
@@ -74,13 +83,32 @@
 2. 环球易购 `(2018.11)` `(前端14人)`
 
    1. <small>**SEO 管理平台** `全新搭建`</small> `Vue Element Admin`
+
+      > 用于Zaful、DressLily、Rosewholesale、Rosegal（简称多站）
+      > 功能：关键词库、Robots、公用部份、关键词规则
+
    2. <small>**ELF 管理系统** `全新搭建`</small> `Vue Element Admin`
+
+      > 用于多站的活动管理、导航管理、游戏管理、导购词管理
+
    3. <small>**AMS 广告系统** `维护系统`</small> `React + Redux + Saga + Webpack`
+
+      > 主要用于投放 Facebook、Google 广告， 可配广告组、广告预算、广告竞价、广告受众等多联动交互
+
    4. <small>**CMS 系统** `全新搭建`</small> `Vue Element Admin`
+    
+      > 12
+
    5. <small>**商品运营平台** `全新搭建`</small> `Vue Element Admin`
+
+     > 配置场景管理与商品规则干预，
+
    6. <small>**IUS 图片系统** `维护系统`</small> `Vue + Element + Webpack`
+
    7. <small>**支付平台** `维护系统`</small> `Yii + jQuery + Bootstrap`
+
    8. <small>**PUSH 系统** `维护系统`</small> `Yii + jQuery + Bootstrap`
+
    9. <small>**Zaful、DressLily** `维护站点`</small> `ThinkPHP + jQuery`
 
 3. 平安科技有限公司 `(2017.01)` `(前端 5 人)`
@@ -91,13 +119,21 @@
 
    2. <small>**智能投顾** `create-react-app + Ramda`</small>
 
+      > 平安科技类似资产配置的 H5 项目
+
    3. <small>**智能投顾后台** `Ant Design Pro + TypeScript`</small>
+
+      > 智能投顾后台管理系统
 
 4. 深圳市魅族科技有限公司 `(2015.06)` `(前端 8 人)`
 
    1. <small>**meizu 官网** `FIS + jQuery + Git`</small>
 
+      > 产品展示、开发新品页面，大量使用 HTML5 + CSS3 动画，基本展示兼容至 IE8
+
    2. <small>**魅友家官网** `jQuery + SVN`</small>
+
+      > 后端 CodeIgniter + 前端 jQuery 编写的魅友家活动信息
 
    3. <small>**游戏活动** `Cocos2d-JS + HTML5 + CSS3`</small>
 
@@ -117,9 +153,13 @@
 
       > 读书会系统、新闻爬虫系统
 
+---
+
 #### 教育经历
 
 <small>福建林业职业技术学院 - 大专-计算机应用 (2009 - 2012)</small>
+
+---
 
 #### 自我描述
 
