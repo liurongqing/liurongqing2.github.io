@@ -51,7 +51,7 @@
 
 <small>开发过微信网页小游戏、微信小程序、微信小程序游戏。</small>
 
-<small>了解 Angular、React Native、Polymer。</small>
+<small>了解 Angular、React Native、Polymer、WebAssembly。</small>
 
 <small>了解 Egret、Phaser、Cocos2d-JS、LayaBox、Three.js 游戏框架。</small>
 
@@ -139,7 +139,7 @@
 
       > <small>母亲节 H5 动画、圣诞节点灯游戏、春晚红包活动、摇你魅微信游戏</small>
 
-5. 深圳市软通动力科技有限公司 `(2014.02)` `(前端架构)` `(前端 3 人)`
+5. 深圳市软通动力科技有限公司 `(2014.02)` `(前端 3 人)`
 
    1. <small>**iPad 版智能社区开发** `Angular1.3.8 + RequireJS + Gulp`</small>
 
