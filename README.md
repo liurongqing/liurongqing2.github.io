@@ -7,26 +7,26 @@
 
 ## 博客地址
 
-[https://www.liurongqing.com](https://www.liurongqing.com)
+[https://liurongqing.github.io](https://liurongqing.github.io)
 
 
 ## 文章列表
 
-[Phaser3 游戏系列](https://www.liurongqing.com/tag/phaser/)
+[Phaser3 游戏系列](https://liurongqing.github.io/tag/phaser/)
 
-[React 框架系列](https://www.liurongqing.com/tag/react/)
+[React 框架系列](https://liurongqing.github.io/tag/react/)
 
-[JavaScript 相关文章](https://www.liurongqing.com/tag/javascript/)
+[JavaScript 相关文章](https://liurongqing.github.io/tag/javascript/)
 
-[CSS 相关文章](https://www.liurongqing.com/tag/css/)
+[CSS 相关文章](https://liurongqing.github.io/tag/css/)
 
-[前端书籍](https://www.liurongqing.com/tag/book/)
+[前端书籍](https://liurongqing.github.io/tag/book/)
 
-[Git 相关文章](https://www.liurongqing.com/tag/git/)
+[Git 相关文章](https://liurongqing.github.io/tag/git/)
 
-[Linux 相关文章](https://www.liurongqing.com/tag/linux/)
+[Linux 相关文章](https://liurongqing.github.io/tag/linux/)
 
-[Mac 相关文章](https://www.liurongqing.com/tag/mac/)
+[Mac 相关文章](https://liurongqing.github.io/tag/mac/)
 
-[工具相关文章](https://www.liurongqing.com/tag/tool/)
+[工具相关文章](https://liurongqing.github.io/tag/tool/)
 
